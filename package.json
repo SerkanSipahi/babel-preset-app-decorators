@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-app-decorators",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "custom babel-preset for app-decorators",
   "main": "lib/index.js",
   "repository": {
