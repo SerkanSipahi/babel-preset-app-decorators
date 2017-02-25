@@ -1,3 +1,5 @@
+This repository is deprecated. Its moved to: [app-decorators/packages/babel-preset-app-decorators](https://github.com/SerkanSipahi/app-decorators/tree/master/packages/babel-preset-app-decorators)
+---
 # babel-preset-app-decorators
 
 > Babel preset for app-decorators.
